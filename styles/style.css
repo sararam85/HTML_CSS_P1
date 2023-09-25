@@ -20,11 +20,11 @@ a {
 
 /* Header styles */
 header {
+    display: flex;
     position: relative;
     background-color: #000000;
     color: #fff;
     padding: 30px;
-    display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 3;
